@@ -10,11 +10,14 @@
 
 # Stuff
 * [[game-dev-book]]
+t* [[text-editor-ideas]]
 
 # TODO
-* [ ] do R stuff
 * [ ] finish compiler
 * [ ] finish computability theory class
+* [ ] de-cdn-ify my website
+* [ ] root cc http://www.makeuseof.com/tag/root-chromecast/
+* [ ] make bsd box an internet faceing server
 * [ ] do distributed bitcoin mining on the library computers
 * [ ] http://www.learn-c.com/
 * [ ] go on another electronics run
@@ -36,6 +39,7 @@
 * [ ] https://sites.google.com/site/steveyegge2/blog-rants
 * [ ] entrepreneur test
 * [ ] 3D print maps
+* [ ] learn haskell
 * [ ] learn strace
 * [ ] learn valgrind (and general profiling)
 * [ ] learn nc
@@ -54,11 +58,12 @@
 * [ ] fiddle with [[https://www.gnu.org/software/octave/|octave]]
 * [ ] fiddle with cakeml (https://cakeml.org/)
 * [ ] fiddle with erlang
-* [ ] write a c-like language that's safe, draws from erlang, has lambdas, draws from go
+* [ ] write a c-like language that's safe, draws from erlang, has lambdas, draws from go, look at plan9
 * [ ] get n++ (http://metanetsoftware.tumblr.com/)
 * [ ] play with stamps (https://github.com/rodrigosetti/stamps)
 * [ ] expose openbsd server to teh internetz
     * [ ] maybe install openwrt on route? (http://wiki.openwrt.org/toh/belkin/start)
+* [ ] https://www.wifipineapple.com/
 * [ ] try http://users.notam02.no/~kjetism/radium/index.php
 * [ ] Homebrew wii
     * http://lifehacker.com/5830367/how-to-hack-your-wii-for-homebrew-in-five-minutes
@@ -66,4 +71,3 @@
 * [ ] chill with some [[emulators]]
 * [ ] learn electric guitar
 * [ ] build 8 bit machine from scratch (maybe a lisp machine?)
-* [ ] build open source phone

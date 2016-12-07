@@ -94,7 +94,7 @@ We already know how to get output to the screen, but text-based adventures are a
     -- read input (type something, then hit enter)
     input = io.read()
     -- print it back out
-    print("You wnat to " .. input)
+    print("You want to " .. input)
 
 ## Conditionals
 
@@ -194,12 +194,42 @@ You might be able to guess where we're going with this now. Since we can check a
 
 This last piece of code seems a bit clunky, since we're repeating the entire condition just to check the inverse of the statement. It is clunky. That's why the `else` statement exists.
 
-    -- just replace the if statement
+    -- replace the previous two if statements with:
     if input == "something" then
         print("very funny >_<")
     else -- in any case where input doesn't equal "something", run the following code:
         print("You entered: " .. input)
     end
+
+## Loops
+
+It's not very fun when we only get one chance to type something in before the program exists. That's why loops exist: they run a chunk of code over and over until some condition is met. The simplest loop possible is the while loop:
+
+    while true do -- true will always be true! so the loop will never stop!
+        print("HI") -- ack! this will print forever!
+    end
+
+What you've just written is an infinite loop. As long as Lua is running, it'll continue to print "HI" to the screen! How do we stop this?
+
+If you press `ctrl`-`c` on your keyboard, the loop will be forcibly stopped. This is a good keybinding to know in case you accidentally write an infinite loop later on and need to get back to the Lua prompt.
+
+Let's write something useful now:
+
+    i = 0
+    while i < 10 do -- keep looping until i is greater than 10
+        i = i + 1 -- add 1 to i
+        print(i)
+    end
+
+How does this all relate to a text based adventure? A text based adventure is controlled through a read-eval-print-loop cycle (also known as a REPL). The key word in REPL is the last one: loop. Until the game is over, we want to continue print descriptions to the screen and reading inputted commands, so a big chunk of the game takes place in a loop.
+
+    while true -- infinite loop for now. Remember ctrl-c gets you out.
+        print("You are in a room")
+        print("What do you want to do?")
+        command = io.read()
+        print("You want to " .. command)
+    end
+
 
 ## Functions
 If variables can be used to store a value, how would you store a set of Lua operations in a manageable chunk?
