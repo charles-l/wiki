@@ -1,5 +1,7 @@
 # Papers/Blog Posts/Demos/Books
 
+Written things that are interesting or useful.
+
 ## Books
 * [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992/)
 * [SICP](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/)
@@ -10,6 +12,7 @@
 * http://c9x.me/compile/bib/ - compiler resources
 
 ## Graphics/Game Dev
+* [Graphics Programming Black Book](http://www.jagregory.com/abrash-black-book/)
 * [[https://github.com/Michaelangel007/game_dev_pdfs|list of game dev pdfs]]
 * [[http://www.jagregory.com/abrash-black-book/#chapter-1-the-best-optimizer-is-between-your-ears|graphics programming black book]]
 * Marching Cubes: https://people.eecs.berkeley.edu/~sequin/CS285/PAPERS/Lorensen_Cline.pdf

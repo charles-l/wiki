@@ -1,3 +1,14 @@
+Closures:
+* http://letoverlambda.com/textmode.cl/guest/chap2.html
+* http://chaosinmotion.com/blog/?p=823
+
+GOAL: http://www.codersnotes.com/notes/disassembling-jak/
+
+Compiler mailing list: http://compilers.iecc.com/
+
+Scheme compiler: http://www.cs.indiana.edu/eip/compile/back.html
+Some useful resources: http://c9x.me/compile/bib/
+
 http://compilers.iecc.com/crenshaw/
 http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf
 
@@ -15,5 +26,8 @@ http://www.refal.org/doc/turchin/dag/dag.html
 http://www.refal.org/english/s_compil.htm
 http://wiki.c2.com/?TheSimplestPossibleCompiler
 
+LuaJit: http://wiki.luajit.org/Optimizations
+
 ### peephole optimization
 http://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf
+
