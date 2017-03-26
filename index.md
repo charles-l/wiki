@@ -8,6 +8,7 @@
 * [[linux]]
 * [[phones]]
 * [[compiler-notes]]
+* [[exploreables]]
 
 # Stuff
 * [[game-dev-book]]
