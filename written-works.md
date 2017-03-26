@@ -1,5 +1,9 @@
 # Papers/Blog Posts/Demos/Books
 
+## Books
+* [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992/)
+* [SICP](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/)
+
 ## Compilers
 * Incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
 * Tracing JIT for Guile scheme: https://github.com/8c6794b6/guile-tjit-documentation/blob/master/nash.pdf
