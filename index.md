@@ -9,6 +9,8 @@
 * [[phones]]
 * [[compiler-notes]]
 * [[exploreables]]
+* [[electronics]]
+* [[lisp]]
 
 # Stuff
 * [[game-dev-book]]

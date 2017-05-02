@@ -24,6 +24,8 @@ Written things that are interesting or useful.
 * http://www.redblobgames.com/ - game dev math
 * [[http://scratchapixel.com/|scratchapixel]] - gamedev from scratch
 * [[https://mollyrocket.com/casey/index.html|casey muratori]] - handmade hero dev
+* http://www.iquilezles.org/ - lots of awesome graphics/procedural generation stuff
+* [The book of shaders](http://thebookofshaders.com/)
 
 # Computer Science
 * http://matt.might.net/articles/what-cs-majors-should-know/ - what cs majors should know
